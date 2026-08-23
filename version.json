@@ -11,7 +11,7 @@
   "previousStableApkDownloadUrl": "https://github.com/stralner2711-a11y/ts-solution-android/releases/download/v1.3.1/TS-Studio-1.3.1.apk",
   "releasePageUrl": "https://github.com/stralner2711-a11y/ts-solution-android/releases/tag/v1.4.0",
   "downloadPageUrl": "https://stralner2711-a11y.github.io/ts-solution-android/",
-  "changelog": ["Komplet kundekort med alle kundeoplysninger", "Redigér foretrukken kontakt og rolle", "Se kundens sager og seneste opdatering", "Åbn hjemmeside og adresse i kort", "Kopiér e-mail og telefonnummer", "Skriv og send mail fra TS Solutions direkte på kundekortet"],
+  "changelog": ["Opret nye kunder og deres første sag direkte i appen", "Filtrér nye og aktive kundehenvendelser", "Komplet kundekort med alle kundeoplysninger", "Redigér hele sagsbriefet fra telefonen", "Se kundens sager og seneste opdatering", "Skriv og send mail fra TS Solutions direkte på kundekortet"],
   "forceUpdate": false,
   "defectiveVersions": [],
   "updatedAt": "2026-08-23"
