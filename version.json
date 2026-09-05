@@ -1,18 +1,25 @@
 {
-  "latestVersion": "1.9.0",
-  "stableVersion": "1.9.0",
-  "activeVersion": "1.9.0",
-  "previousStableVersion": "1.8.1",
-  "latestVersionCode": 24,
-  "stableVersionCode": 24,
-  "activeVersionCode": 24,
-  "apkDownloadUrl": "https://github.com/stralner2711-a11y/ts-solution-android/releases/download/v1.9.0/TS-Studio-1.9.0.apk",
-  "stableApkDownloadUrl": "https://github.com/stralner2711-a11y/ts-solution-android/releases/download/v1.9.0/TS-Studio-1.9.0.apk",
-  "previousStableApkDownloadUrl": "https://github.com/stralner2711-a11y/ts-solution-android/releases/download/v1.8.1/TS-Studio-1.8.1.apk",
-  "releasePageUrl": "https://github.com/stralner2711-a11y/ts-solution-android/releases/tag/v1.9.0",
+  "latestVersion": "1.10.0",
+  "stableVersion": "1.10.0",
+  "activeVersion": "1.10.0",
+  "previousStableVersion": "1.9.0",
+  "latestVersionCode": 25,
+  "stableVersionCode": 25,
+  "activeVersionCode": 25,
+  "apkDownloadUrl": "https://github.com/stralner2711-a11y/ts-solution-android/releases/download/v1.10.0/TS-Studio-1.10.0.apk",
+  "stableApkDownloadUrl": "https://github.com/stralner2711-a11y/ts-solution-android/releases/download/v1.10.0/TS-Studio-1.10.0.apk",
+  "previousStableApkDownloadUrl": "https://github.com/stralner2711-a11y/ts-solution-android/releases/download/v1.9.0/TS-Studio-1.9.0.apk",
+  "releasePageUrl": "https://github.com/stralner2711-a11y/ts-solution-android/releases/tag/v1.10.0",
   "downloadPageUrl": "https://stralner2711-a11y.github.io/ts-solution-android/",
-  "changelog": ["Automatisk synkronisering hvert minut mens appen er åben", "Mails, kalender, sekretær og åbne sager opdateres sammen med webadgangen", "Ny Hjemmesideindsigt med besøg, Idéstart og populære sider", "Testsager er tydeligt markeret og kan ikke sende tilbud eller fakturaer", "Synkroniseringsstatus viser nu det rigtige tidspunkt og fejltilstand", "Android build og serverens 41 tests består"],
+  "changelog": [
+    "Uafklarede kundesvar kan knyttes til en sag og besvares i appen",
+    "Tydelig forskel på afsendt, leveret og afvist mail",
+    "Sikre genforsøg med samme afsendelse",
+    "Synkronisering bevarer igangværende tilbudskladder",
+    "Prisoplysninger, rabat og eksterne udgifter bevares fra websystemet",
+    "Kalenderen viser forbindelsesfejl og kan hentes igen"
+  ],
   "forceUpdate": false,
   "defectiveVersions": [],
-  "updatedAt": "2026-08-27"
+  "updatedAt": "2026-09-05"
 }
