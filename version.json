@@ -1,25 +1,25 @@
 {
-  "latestVersion": "2.0.0",
-  "stableVersion": "2.0.0",
-  "activeVersion": "2.0.0",
-  "previousStableVersion": "1.11.0",
-  "latestVersionCode": 27,
-  "stableVersionCode": 27,
-  "activeVersionCode": 27,
-  "apkDownloadUrl": "https://github.com/stralner2711-a11y/ts-solution-android/releases/download/v2.0.0/TS-Studio-2.0.0.apk",
-  "stableApkDownloadUrl": "https://github.com/stralner2711-a11y/ts-solution-android/releases/download/v2.0.0/TS-Studio-2.0.0.apk",
-  "previousStableApkDownloadUrl": "https://github.com/stralner2711-a11y/ts-solution-android/releases/download/v1.11.0/TS-Studio-1.11.0.apk",
-  "releasePageUrl": "https://github.com/stralner2711-a11y/ts-solution-android/releases/tag/v2.0.0",
+  "latestVersion": "2.1.0",
+  "stableVersion": "2.1.0",
+  "activeVersion": "2.1.0",
+  "previousStableVersion": "2.0.0",
+  "latestVersionCode": 28,
+  "stableVersionCode": 28,
+  "activeVersionCode": 28,
+  "apkDownloadUrl": "https://github.com/stralner2711-a11y/ts-solution-android/releases/download/v2.1.0/TS-Studio-2.1.0.apk",
+  "stableApkDownloadUrl": "https://github.com/stralner2711-a11y/ts-solution-android/releases/download/v2.1.0/TS-Studio-2.1.0.apk",
+  "previousStableApkDownloadUrl": "https://github.com/stralner2711-a11y/ts-solution-android/releases/download/v2.0.0/TS-Studio-2.0.0.apk",
+  "releasePageUrl": "https://github.com/stralner2711-a11y/ts-solution-android/releases/tag/v2.1.0",
   "downloadPageUrl": "https://stralner2711-a11y.github.io/ts-solution-android/",
   "changelog": [
-    "Studio 2-design og fælles virksomhedsoverblik med websystemet",
-    "Kundekort, søgning og oprettelse af kunder og projekter",
-    "Virksomhedsmail, svar uden kundesag og fælles serverkladder",
-    "Mødenoter, analyse, teknisk profil og parkerede spørgsmål",
-    "Tilbudsudkast kan opdateres fra kundens svar",
-    "Beskyttelse mod overskrivning af samtidige ændringer"
+    "Fakturagrundlag og Dinero-overførselshistorik direkte i appen",
+    "Samme serverkontroller og beskyttelse mod dobbeltoprettelse som på web",
+    "Godkendelse nulstilles ved ændringer og fejl; ingen automatisk gentagelse",
+    "Gamle Studio-fakturaer bevares som læsbar historik",
+    "Dinero-overførsel forbliver spærret indtil særskilt godkendt opsætning",
+    "Ingen automatisk bogføring, afsendelse eller betalingssynkronisering"
   ],
   "forceUpdate": false,
   "defectiveVersions": [],
-  "updatedAt": "2026-09-13"
+  "updatedAt": "2026-09-15"
 }
