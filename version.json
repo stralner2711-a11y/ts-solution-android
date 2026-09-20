@@ -1,24 +1,23 @@
 {
-  "latestVersion": "2.2.0",
-  "stableVersion": "2.2.0",
-  "activeVersion": "2.2.0",
-  "previousStableVersion": "2.1.0",
-  "latestVersionCode": 29,
-  "stableVersionCode": 29,
-  "activeVersionCode": 29,
-  "apkDownloadUrl": "https://github.com/stralner2711-a11y/ts-solution-android/releases/download/v2.2.0/TS-Studio-2.2.0.apk",
-  "stableApkDownloadUrl": "https://github.com/stralner2711-a11y/ts-solution-android/releases/download/v2.2.0/TS-Studio-2.2.0.apk",
-  "previousStableApkDownloadUrl": "https://github.com/stralner2711-a11y/ts-solution-android/releases/download/v2.1.0/TS-Studio-2.1.0.apk",
-  "releasePageUrl": "https://github.com/stralner2711-a11y/ts-solution-android/releases/tag/v2.2.0",
+  "latestVersion": "2.2.1",
+  "stableVersion": "2.2.1",
+  "activeVersion": "2.2.1",
+  "previousStableVersion": "2.2.0",
+  "latestVersionCode": 30,
+  "stableVersionCode": 30,
+  "activeVersionCode": 30,
+  "apkDownloadUrl": "https://github.com/stralner2711-a11y/ts-solution-android/releases/download/v2.2.1/TS-Studio-2.2.1.apk",
+  "stableApkDownloadUrl": "https://github.com/stralner2711-a11y/ts-solution-android/releases/download/v2.2.1/TS-Studio-2.2.1.apk",
+  "previousStableApkDownloadUrl": "https://github.com/stralner2711-a11y/ts-solution-android/releases/download/v2.2.0/TS-Studio-2.2.0.apk",
+  "releasePageUrl": "https://github.com/stralner2711-a11y/ts-solution-android/releases/tag/v2.2.1",
   "downloadPageUrl": "https://stralner2711-a11y.github.io/ts-solution-android/",
   "changelog": [
-    "Jonas · intern test er nu tilgængelig direkte i appen",
-    "Gennemgå og afvis kundebeskeder fra Jonas",
-    "Godkend mødeforslag med ny kalenderkontrol før oprettelse",
-    "Teksttest med Jonas via den parrede, sikre Studio-forbindelse",
-    "Ingen automatisk afsendelse eller telefoni"
+    "Native genlåsning ved hurtige skift væk fra appen",
+    "Parring bruger telefonens producent og model",
+    "Validering af parringssvar før adgang gemmes",
+    "Eksisterende parring bevares ved opdatering"
   ],
   "forceUpdate": false,
   "defectiveVersions": [],
-  "updatedAt": "2026-09-15"
+  "updatedAt": "2026-09-20"
 }
