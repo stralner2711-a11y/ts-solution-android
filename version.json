@@ -1,23 +1,20 @@
 {
-  "latestVersion": "2.2.1",
-  "stableVersion": "2.2.1",
-  "activeVersion": "2.2.1",
-  "previousStableVersion": "2.2.0",
-  "latestVersionCode": 30,
-  "stableVersionCode": 30,
-  "activeVersionCode": 30,
-  "apkDownloadUrl": "https://github.com/stralner2711-a11y/ts-solution-android/releases/download/v2.2.1/TS-Studio-2.2.1.apk",
-  "stableApkDownloadUrl": "https://github.com/stralner2711-a11y/ts-solution-android/releases/download/v2.2.1/TS-Studio-2.2.1.apk",
-  "previousStableApkDownloadUrl": "https://github.com/stralner2711-a11y/ts-solution-android/releases/download/v2.2.0/TS-Studio-2.2.0.apk",
-  "releasePageUrl": "https://github.com/stralner2711-a11y/ts-solution-android/releases/tag/v2.2.1",
+  "latestVersion": "2.2.2",
+  "stableVersion": "2.2.2",
+  "activeVersion": "2.2.2",
+  "previousStableVersion": "2.2.1",
+  "latestVersionCode": 31,
+  "stableVersionCode": 31,
+  "activeVersionCode": 31,
+  "apkDownloadUrl": "https://github.com/stralner2711-a11y/ts-solution-android/releases/download/v2.2.2/TS-Studio-2.2.2.apk",
+  "stableApkDownloadUrl": "https://github.com/stralner2711-a11y/ts-solution-android/releases/download/v2.2.2/TS-Studio-2.2.2.apk",
+  "previousStableApkDownloadUrl": "https://github.com/stralner2711-a11y/ts-solution-android/releases/download/v2.2.1/TS-Studio-2.2.1.apk",
+  "releasePageUrl": "https://github.com/stralner2711-a11y/ts-solution-android/releases/tag/v2.2.2",
   "downloadPageUrl": "https://stralner2711-a11y.github.io/ts-solution-android/",
   "changelog": [
-    "Native genlåsning ved hurtige skift væk fra appen",
-    "Parring bruger telefonens producent og model",
-    "Validering af parringssvar før adgang gemmes",
-    "Eksisterende parring bevares ved opdatering"
+    "Sikkerhedsopdatering til Capacitor Android 7.6.10"
   ],
   "forceUpdate": false,
   "defectiveVersions": [],
-  "updatedAt": "2026-09-20"
+  "updatedAt": "2026-11-19"
 }
